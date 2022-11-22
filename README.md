@@ -15,6 +15,6 @@ College Student.😀
 
  - 📫 How to reach me singhharsan@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beast1610&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Beast1610&show_icons=true&theme=tokyonight)
