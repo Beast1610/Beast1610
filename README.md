@@ -1,7 +1,6 @@
 
 <h1 align="center"> Hi, I'm Harsan! 👋</h1>
 
-<h3 align ="center">College Student.😀</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Beast1610.Beast1610)
 
